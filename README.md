@@ -159,6 +159,7 @@ Gravtastic is a mature project. There isn't any active work which needs to be do
 * [Xavier Shay](http://github.com/xaviershay) and others for [Enki](http://enkiblog.com) (the reason this was originally written)
 * [Matthew Moore](http://github.com/moorage)
 * [Galen O'Hanlon](http://github.com/gohanlon)
+* [VJ Charles](https://github.com/vjcharles)
 * [Jason Cheow](http://jasoncheow.com)
 * [Paul Farnell](http://github.com/salted)
 * [Jeff Kreeftmeijer](http://github.com/jeffkreeftmeijer)
